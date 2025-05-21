@@ -1,0 +1,15 @@
+# Data processing
+pandas
+numpy
+
+# Scaling & utilities
+scikit-learn
+joblib
+
+# Deep learning
+tensorflow>=2.10.0
+
+# Interactive exploration
+jupyter
+notebook
+matplotlib
